@@ -58,9 +58,15 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2024-11-27 155745](https://github.com/user-attachments/assets/2d1d853a-cc51-4e20-92c2-bcbf044a7400)
+
 
 ## PROGRAM
+![WhatsApp Image 2024-11-27 at 16 06 45_22499128](https://github.com/user-attachments/assets/446f650b-e14b-4727-be61-2d141bbca7b0)
+
 
 ## OUTPUT
+![Screenshot 2024-11-27 155803](https://github.com/user-attachments/assets/40e28d01-3c1c-4307-b529-6a488c108008)
+
 
 ## RESULT

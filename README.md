@@ -70,3 +70,4 @@ Weighing Machines </br>
 
 
 ## RESULT
+The above Program executed successfully and shown the output in Proteus.
